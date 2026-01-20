@@ -42,7 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 include __DIR__ . '/../header.php';
 ?>
-<h2>Registracija</h2>
+<h2>Registracijaaaaaaaaaaaa</h2>
 <?php if ($errors): ?>
   <div style="color:red;"><ul><?php foreach($errors as $e): ?><li><?=htmlspecialchars($e)?></li><?php endforeach; ?></ul></div>
 <?php endif; ?>
